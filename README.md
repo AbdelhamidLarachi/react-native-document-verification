@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img  src="https://43b2ww204ca63vtwe12u1xq5-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/facial-app.jpg">
+    <img  width="288px" src="https://43b2ww204ca63vtwe12u1xq5-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/facial-app.jpg">
   </a>
   <h1 align="center">Document Verification Steps - React Native</h1>  
 </p>
