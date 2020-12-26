@@ -46,3 +46,5 @@ npx react-native run-ios
 npx react-native run-android
 
 ```
+
+[![Donate](https://img.shields.io/badge/Donate-Buy%20me%20a%20cofee-green)](https://www.buymeacoffee.com/abdelhamid)
