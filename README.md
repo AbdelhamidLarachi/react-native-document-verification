@@ -1,6 +1,6 @@
 <p align="center">
   <a>
-    <img width="100px" src="https://smartmulticlipboard.com/images/ss/icons.png">
+    <img  src="https://43b2ww204ca63vtwe12u1xq5-wpengine.netdna-ssl.com/wp-content/uploads/2018/12/facial-app.jpg">
   </a>
   <h1 align="center">Document Verification Steps - React Native</h1>  
 </p>
@@ -19,8 +19,16 @@
 
 ## Screenshots
 
-<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-expense-tracker/master/img/details.png"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-expense-tracker/master/img/home.png?token=AH6YGRZYQODZUITBNZFROCK746MTM">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/welcome.png"> <img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/upload.png">
 
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/paymentType.png">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/paymentType2.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/paymentType3.png">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/photo.png">
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/resize.png">
+
+<img width="288px" src="https://raw.githubusercontent.com/AbdelhamidLarachi/react-native-document-verification/master/img/done.png"> 
 
 ## Development
 
